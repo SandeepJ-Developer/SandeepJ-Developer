@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sandeep Jadhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/ (https://www.linkedin.com/in/sandeep-jadhav-31aa06104/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sandeep Jadhav-yellow)](https://stackoverflow.com/users/17901822/sandeep-jadhav)
-[![Website Badge](https://img.shields.io/badge/Quora-Sandeep Jadhav-green)](https://www.quora.com/profile/Sandeep-Jadhav-209)
+[![Linkedin Badge](https://img.shields.io/badge/-Sandeep Jadhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeep-jadhav-31aa06104/)](https://www.linkedin.com/in/sandeep-jadhav-31aa06104/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sandeep Jadhav-orange)](https://stackoverflow.com/users/17901822/sandeep-jadhav)
+[![Website Badge](https://img.shields.io/badge/Quora-Sandeep Jadhav-red)](https://www.quora.com/profile/Sandeep-Jadhav-209)
 
 
 I'm
