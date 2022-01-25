@@ -6,8 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/Quora-Sandeep_Jadhav-red)](https://www.quora.com/profile/Sandeep-Jadhav-209)
 
 I'm
-Full Stack Web Developer. 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include Back-end development using open source technologies (NodeJs, Python) and Front-end development (HTML5, CSS3, Javascript, ReactJs, Responsive, UX), Server Administrator (Azure), Database (MongoDB, Mysql).
+Full stack web developer with 4+ years of experience. Bachelor of Engineering (BE) focused in Computer Science from Vishwanath Rao Deshpande Institute Of Technology. Skilled in HTML, CSS, Bootstrap, JavaScript, React.js, Express.js, Node.js, MongoDB, PostgreSQL, and Python. I want to secure a position where I can fully utilize and develop my knowledge and efficiently contribute my skills and abilities for the overall growth of the organization and to build my professional career.
 
 ![Visitor Count](https://profile-counter.glitch.me/SandeepJ-Developer/count.svg)
 
